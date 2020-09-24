@@ -1,5 +1,4 @@
-<!-- Gọi header -->
-	<?php require('site/views/commons/header.php'); ?>
+<?php require('site/views/commons/header.php'); ?>
 
 <!-- goi title -->
 <!-- <p class="header">IT'S GOOD TO SEE YOU</p> -->

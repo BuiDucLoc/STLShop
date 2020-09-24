@@ -109,11 +109,11 @@
 </div>
 <script type="text/javascript" src="assets/js/search.js">
 </script>
+<!-- echo json_encode($product); -->
 <script type="text/javascript">
- 
-  var b = new Array(<?php echo json_encode($product); ?>);
+  // var b = new Array();
 
-  autocomplete(document.getElementById("myInput"), b[0]);
+  // autocomplete(document.getElementById("myInput"), b[0]);
 </script>
 
 
